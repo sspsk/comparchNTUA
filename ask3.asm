@@ -1,5 +1,11 @@
+#Author: Sotiris Karapiperis
+#problem set 1 - exercise 3
+
+#declare data
 .data
 msg: .asciiz "Does not exist!"
+
+#source code
 .text
 .globl main
 

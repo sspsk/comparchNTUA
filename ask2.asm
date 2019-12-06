@@ -1,4 +1,10 @@
+#Author: Sotiris Karapiperis
+#problem set 1 - exercise 2
+
+#declare data
 .data
+
+#source code
 .text
 .globl main
 

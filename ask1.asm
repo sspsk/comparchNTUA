@@ -1,3 +1,5 @@
+#Author: Sotiris Karapiperis
+#problem set 1 - exercise 1
 
 #declare data
 .data
